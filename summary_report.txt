@@ -1,0 +1,48 @@
+================================================================================
+TRADING AGENT COMPARISON REPORT
+Generated: 2025-12-30 20:32:15
+================================================================================
+
+PERFORMANCE METRICS BY AGENT:
+--------------------------------------------------------------------------------
+
+StockAgent:
+  Total Trades: 87
+  Win Rate: 44.83%
+  Total Profit: $-158408.83
+  Avg Profit/Trade: $-1820.79
+  Sharpe Ratio: -0.111
+  Profit Factor: 0.74
+
+TradingAgents:
+  Total Trades: 43
+  Win Rate: 32.56%
+  Total Profit: $-995.46
+  Avg Profit/Trade: $-23.15
+  Sharpe Ratio: -0.165
+  Profit Factor: 0.67
+
+FinGPT:
+  Total Trades: 66
+  Win Rate: 43.94%
+  Total Profit: $-20945.24
+  Avg Profit/Trade: $-317.35
+  Sharpe Ratio: -0.211
+  Profit Factor: 0.53
+
+================================================================================
+AGENT RANKINGS:
+--------------------------------------------------------------------------------
+1. StockAgent (Score: 1.40)
+2. TradingAgents (Score: 2.20)
+2. FinGPT (Score: 2.40)
+
+================================================================================
+STATISTICAL SIGNIFICANCE TESTS:
+--------------------------------------------------------------------------------
+StockAgent_vs_TradingAgents:
+  p-value: 0.4767 (NOT SIGNIFICANT)
+StockAgent_vs_FinGPT:
+  p-value: 0.4617 (NOT SIGNIFICANT)
+TradingAgents_vs_FinGPT:
+  p-value: 0.2068 (NOT SIGNIFICANT)

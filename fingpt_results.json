@@ -1,0 +1,676 @@
+{
+  "agent": "FinGPT",
+  "timestamp": "2025-12-30T20:21:43.696462",
+  "config": {
+    "risk_tolerance": 0.8,
+    "model": "gpt-4.1-mini"
+  },
+  "trades": [
+    {
+      "trade_id": 1,
+      "symbol": "STOCK",
+      "entry_price": 97.09,
+      "exit_price": 98.53,
+      "quantity": 122,
+      "profit": 175.75,
+      "entry_time": "2025-12-30T20:12:41.481823",
+      "exit_time": "2025-12-30T20:17:41.481823"
+    },
+    {
+      "trade_id": 2,
+      "symbol": "STOCK",
+      "entry_price": 94.08,
+      "exit_price": 92.24,
+      "quantity": 50,
+      "profit": -91.68,
+      "entry_time": "2025-12-30T20:22:41.481823",
+      "exit_time": "2025-12-30T20:27:41.481823"
+    },
+    {
+      "trade_id": 3,
+      "symbol": "STOCK",
+      "entry_price": 93.94,
+      "exit_price": 97.62,
+      "quantity": 28,
+      "profit": 103.07,
+      "entry_time": "2025-12-30T20:32:41.481823",
+      "exit_time": "2025-12-30T20:37:41.481823"
+    },
+    {
+      "trade_id": 4,
+      "symbol": "STOCK",
+      "entry_price": 95.12,
+      "exit_price": 92.9,
+      "quantity": 100,
+      "profit": -221.76,
+      "entry_time": "2025-12-30T20:42:41.481823",
+      "exit_time": "2025-12-30T20:47:41.481823"
+    },
+    {
+      "trade_id": 5,
+      "symbol": "STOCK",
+      "entry_price": 93.37,
+      "exit_price": 99.2,
+      "quantity": 128,
+      "profit": 746.52,
+      "entry_time": "2025-12-30T20:52:41.481823",
+      "exit_time": "2025-12-30T20:57:41.481823"
+    },
+    {
+      "trade_id": 6,
+      "symbol": "STOCK",
+      "entry_price": 96.73,
+      "exit_price": 92.79,
+      "quantity": 104,
+      "profit": -409.78,
+      "entry_time": "2025-12-30T21:02:41.481823",
+      "exit_time": "2025-12-30T21:07:41.481823"
+    },
+    {
+      "trade_id": 7,
+      "symbol": "STOCK",
+      "entry_price": 91.05,
+      "exit_price": 88.73,
+      "quantity": 65,
+      "profit": -150.47,
+      "entry_time": "2025-12-30T21:12:41.481823",
+      "exit_time": "2025-12-30T21:17:41.481823"
+    },
+    {
+      "trade_id": 8,
+      "symbol": "STOCK",
+      "entry_price": 85.7,
+      "exit_price": 85.71,
+      "quantity": 20,
+      "profit": 0.19,
+      "entry_time": "2025-12-30T21:22:41.481823",
+      "exit_time": "2025-12-30T21:32:41.481823"
+    },
+    {
+      "trade_id": 9,
+      "symbol": "STOCK",
+      "entry_price": 86.97,
+      "exit_price": 89.99,
+      "quantity": 107,
+      "profit": 323.51,
+      "entry_time": "2025-12-30T21:27:41.481823",
+      "exit_time": "2025-12-30T21:42:41.481823"
+    },
+    {
+      "trade_id": 10,
+      "symbol": "STOCK",
+      "entry_price": 88.39,
+      "exit_price": 95.28,
+      "quantity": 116,
+      "profit": 798.93,
+      "entry_time": "2025-12-30T21:37:41.481823",
+      "exit_time": "2025-12-30T21:52:41.481823"
+    },
+    {
+      "trade_id": 11,
+      "symbol": "STOCK",
+      "entry_price": 94.04,
+      "exit_price": 89.67,
+      "quantity": 57,
+      "profit": -248.79,
+      "entry_time": "2025-12-30T21:47:41.481823",
+      "exit_time": "2025-12-30T22:02:41.481823"
+    },
+    {
+      "trade_id": 12,
+      "symbol": "STOCK",
+      "entry_price": 93.22,
+      "exit_price": 91.75,
+      "quantity": 30,
+      "profit": -44.1,
+      "entry_time": "2025-12-30T21:57:41.481823",
+      "exit_time": "2025-12-30T22:12:41.481823"
+    },
+    {
+      "trade_id": 13,
+      "symbol": "STOCK",
+      "entry_price": 91.77,
+      "exit_price": 82.86,
+      "quantity": 12,
+      "profit": -106.83,
+      "entry_time": "2025-12-30T22:07:41.481823",
+      "exit_time": "2025-12-30T22:42:41.481823"
+    },
+    {
+      "trade_id": 14,
+      "symbol": "STOCK",
+      "entry_price": 85.75,
+      "exit_price": 80.16,
+      "quantity": 22,
+      "profit": -122.92,
+      "entry_time": "2025-12-30T22:17:41.481823",
+      "exit_time": "2025-12-30T22:57:41.481823"
+    },
+    {
+      "trade_id": 15,
+      "symbol": "STOCK",
+      "entry_price": 80.97,
+      "exit_price": 81.9,
+      "quantity": 11,
+      "profit": 10.16,
+      "entry_time": "2025-12-30T22:37:41.481823",
+      "exit_time": "2025-12-30T23:42:41.481823"
+    },
+    {
+      "trade_id": 16,
+      "symbol": "STOCK",
+      "entry_price": 84.28,
+      "exit_price": 80.92,
+      "quantity": 14,
+      "profit": -47.08,
+      "entry_time": "2025-12-30T22:47:41.481823",
+      "exit_time": "2025-12-30T23:57:41.481823"
+    },
+    {
+      "trade_id": 17,
+      "symbol": "STOCK",
+      "entry_price": 81.18,
+      "exit_price": 84.93,
+      "quantity": 19,
+      "profit": 71.39,
+      "entry_time": "2025-12-30T22:52:41.481823",
+      "exit_time": "2025-12-31T00:07:41.481823"
+    },
+    {
+      "trade_id": 18,
+      "symbol": "STOCK",
+      "entry_price": 80.27,
+      "exit_price": 89.28,
+      "quantity": 58,
+      "profit": 522.79,
+      "entry_time": "2025-12-30T23:02:41.481823",
+      "exit_time": "2025-12-31T00:17:41.481823"
+    },
+    {
+      "trade_id": 19,
+      "symbol": "STOCK",
+      "entry_price": 82.49,
+      "exit_price": 90.01,
+      "quantity": 89,
+      "profit": 669.53,
+      "entry_time": "2025-12-30T23:37:41.481823",
+      "exit_time": "2025-12-31T00:27:41.481823"
+    },
+    {
+      "trade_id": 20,
+      "symbol": "STOCK",
+      "entry_price": 81.15,
+      "exit_price": 90.03,
+      "quantity": 42,
+      "profit": 372.65,
+      "entry_time": "2025-12-30T23:47:41.481823",
+      "exit_time": "2025-12-31T00:37:41.481823"
+    },
+    {
+      "trade_id": 21,
+      "symbol": "STOCK",
+      "entry_price": 80.36,
+      "exit_price": 81.32,
+      "quantity": 116,
+      "profit": 111.7,
+      "entry_time": "2025-12-30T23:52:41.481823",
+      "exit_time": "2025-12-31T01:12:41.481823"
+    },
+    {
+      "trade_id": 22,
+      "symbol": "STOCK",
+      "entry_price": 82.08,
+      "exit_price": 76.65,
+      "quantity": 114,
+      "profit": -618.8,
+      "entry_time": "2025-12-31T00:02:41.481823",
+      "exit_time": "2025-12-31T01:27:41.481823"
+    },
+    {
+      "trade_id": 23,
+      "symbol": "STOCK",
+      "entry_price": 87.3,
+      "exit_price": 70.36,
+      "quantity": 62,
+      "profit": -1050.6,
+      "entry_time": "2025-12-31T00:12:41.481823",
+      "exit_time": "2025-12-31T01:37:41.481823"
+    },
+    {
+      "trade_id": 24,
+      "symbol": "STOCK",
+      "entry_price": 91.64,
+      "exit_price": 61.39,
+      "quantity": 104,
+      "profit": -3146.58,
+      "entry_time": "2025-12-31T00:22:41.481823",
+      "exit_time": "2025-12-31T02:47:41.481823"
+    },
+    {
+      "trade_id": 25,
+      "symbol": "STOCK",
+      "entry_price": 91.14,
+      "exit_price": 58.71,
+      "quantity": 72,
+      "profit": -2335.06,
+      "entry_time": "2025-12-31T00:32:41.481823",
+      "exit_time": "2025-12-31T03:02:41.481823"
+    },
+    {
+      "trade_id": 26,
+      "symbol": "STOCK",
+      "entry_price": 89.3,
+      "exit_price": 59.59,
+      "quantity": 16,
+      "profit": -475.38,
+      "entry_time": "2025-12-31T00:42:41.481823",
+      "exit_time": "2025-12-31T03:12:41.481823"
+    },
+    {
+      "trade_id": 27,
+      "symbol": "STOCK",
+      "entry_price": 86.1,
+      "exit_price": 58.54,
+      "quantity": 12,
+      "profit": -330.75,
+      "entry_time": "2025-12-31T00:47:41.481823",
+      "exit_time": "2025-12-31T03:52:41.481823"
+    },
+    {
+      "trade_id": 28,
+      "symbol": "STOCK",
+      "entry_price": 80.88,
+      "exit_price": 60.62,
+      "quantity": 115,
+      "profit": -2329.85,
+      "entry_time": "2025-12-31T01:07:41.481823",
+      "exit_time": "2025-12-31T04:07:41.481823"
+    },
+    {
+      "trade_id": 29,
+      "symbol": "STOCK",
+      "entry_price": 78.38,
+      "exit_price": 65.7,
+      "quantity": 41,
+      "profit": -519.78,
+      "entry_time": "2025-12-31T01:17:41.481823",
+      "exit_time": "2025-12-31T04:22:41.481823"
+    },
+    {
+      "trade_id": 30,
+      "symbol": "STOCK",
+      "entry_price": 77.31,
+      "exit_price": 64.81,
+      "quantity": 94,
+      "profit": -1174.92,
+      "entry_time": "2025-12-31T01:22:41.481823",
+      "exit_time": "2025-12-31T04:37:41.481823"
+    },
+    {
+      "trade_id": 31,
+      "symbol": "STOCK",
+      "entry_price": 75.21,
+      "exit_price": 66.41,
+      "quantity": 124,
+      "profit": -1091.0,
+      "entry_time": "2025-12-31T01:32:41.481823",
+      "exit_time": "2025-12-31T04:47:41.481823"
+    },
+    {
+      "trade_id": 32,
+      "symbol": "STOCK",
+      "entry_price": 68.95,
+      "exit_price": 65.94,
+      "quantity": 17,
+      "profit": -51.08,
+      "entry_time": "2025-12-31T01:42:41.481823",
+      "exit_time": "2025-12-31T05:02:41.481823"
+    },
+    {
+      "trade_id": 33,
+      "symbol": "STOCK",
+      "entry_price": 64.35,
+      "exit_price": 69.66,
+      "quantity": 20,
+      "profit": 106.23,
+      "entry_time": "2025-12-31T01:47:41.481823",
+      "exit_time": "2025-12-31T05:12:41.481823"
+    },
+    {
+      "trade_id": 34,
+      "symbol": "STOCK",
+      "entry_price": 61.65,
+      "exit_price": 77.94,
+      "quantity": 147,
+      "profit": 2393.96,
+      "entry_time": "2025-12-31T02:42:41.481823",
+      "exit_time": "2025-12-31T05:22:41.481823"
+    },
+    {
+      "trade_id": 35,
+      "symbol": "STOCK",
+      "entry_price": 61.15,
+      "exit_price": 78.01,
+      "quantity": 30,
+      "profit": 505.72,
+      "entry_time": "2025-12-31T02:52:41.481823",
+      "exit_time": "2025-12-31T05:32:41.481823"
+    },
+    {
+      "trade_id": 36,
+      "symbol": "STOCK",
+      "entry_price": 58.49,
+      "exit_price": 73.37,
+      "quantity": 154,
+      "profit": 2290.37,
+      "entry_time": "2025-12-31T02:57:41.481823",
+      "exit_time": "2025-12-31T05:42:41.481823"
+    },
+    {
+      "trade_id": 37,
+      "symbol": "STOCK",
+      "entry_price": 58.94,
+      "exit_price": 78.19,
+      "quantity": 10,
+      "profit": 192.49,
+      "entry_time": "2025-12-31T03:07:41.481823",
+      "exit_time": "2025-12-31T05:57:41.481823"
+    },
+    {
+      "trade_id": 38,
+      "symbol": "STOCK",
+      "entry_price": 60.72,
+      "exit_price": 90.05,
+      "quantity": 15,
+      "profit": 439.98,
+      "entry_time": "2025-12-31T03:17:41.481823",
+      "exit_time": "2025-12-31T06:02:41.481823"
+    },
+    {
+      "trade_id": 39,
+      "symbol": "STOCK",
+      "entry_price": 62.8,
+      "exit_price": 92.47,
+      "quantity": 10,
+      "profit": 296.69,
+      "entry_time": "2025-12-31T03:22:41.481823",
+      "exit_time": "2025-12-31T06:17:41.481823"
+    },
+    {
+      "trade_id": 40,
+      "symbol": "STOCK",
+      "entry_price": 56.66,
+      "exit_price": 74.2,
+      "quantity": 15,
+      "profit": 263.14,
+      "entry_time": "2025-12-31T03:47:41.481823",
+      "exit_time": "2025-12-31T06:32:41.481823"
+    },
+    {
+      "trade_id": 41,
+      "symbol": "STOCK",
+      "entry_price": 58.97,
+      "exit_price": 57.96,
+      "quantity": 152,
+      "profit": -154.25,
+      "entry_time": "2025-12-31T04:02:41.481823",
+      "exit_time": "2025-12-31T06:57:41.481823"
+    },
+    {
+      "trade_id": 42,
+      "symbol": "STOCK",
+      "entry_price": 61.47,
+      "exit_price": 46.75,
+      "quantity": 148,
+      "profit": -2178.47,
+      "entry_time": "2025-12-31T04:12:41.481823",
+      "exit_time": "2025-12-31T07:27:41.481823"
+    },
+    {
+      "trade_id": 43,
+      "symbol": "STOCK",
+      "entry_price": 63.41,
+      "exit_price": 45.96,
+      "quantity": 23,
+      "profit": -401.31,
+      "entry_time": "2025-12-31T04:17:41.481823",
+      "exit_time": "2025-12-31T07:42:41.481823"
+    },
+    {
+      "trade_id": 44,
+      "symbol": "STOCK",
+      "entry_price": 64.22,
+      "exit_price": 44.73,
+      "quantity": 12,
+      "profit": -233.84,
+      "entry_time": "2025-12-31T04:27:41.481823",
+      "exit_time": "2025-12-31T07:52:41.481823"
+    },
+    {
+      "trade_id": 45,
+      "symbol": "STOCK",
+      "entry_price": 62.66,
+      "exit_price": 47.13,
+      "quantity": 48,
+      "profit": -745.16,
+      "entry_time": "2025-12-31T04:32:41.481823",
+      "exit_time": "2025-12-31T08:02:41.481823"
+    },
+    {
+      "trade_id": 46,
+      "symbol": "STOCK",
+      "entry_price": 64.77,
+      "exit_price": 45.93,
+      "quantity": 98,
+      "profit": -1846.46,
+      "entry_time": "2025-12-31T04:42:41.481823",
+      "exit_time": "2025-12-31T08:12:41.481823"
+    },
+    {
+      "trade_id": 47,
+      "symbol": "STOCK",
+      "entry_price": 68.58,
+      "exit_price": 46.86,
+      "quantity": 100,
+      "profit": -2171.34,
+      "entry_time": "2025-12-31T04:52:41.481823",
+      "exit_time": "2025-12-31T08:22:41.481823"
+    },
+    {
+      "trade_id": 48,
+      "symbol": "STOCK",
+      "entry_price": 66.01,
+      "exit_price": 45.54,
+      "quantity": 20,
+      "profit": -409.55,
+      "entry_time": "2025-12-31T04:57:41.481823",
+      "exit_time": "2025-12-31T08:32:41.481823"
+    },
+    {
+      "trade_id": 49,
+      "symbol": "STOCK",
+      "entry_price": 68.22,
+      "exit_price": 45.14,
+      "quantity": 24,
+      "profit": -553.94,
+      "entry_time": "2025-12-31T05:07:41.481823",
+      "exit_time": "2025-12-31T08:42:41.481823"
+    },
+    {
+      "trade_id": 50,
+      "symbol": "STOCK",
+      "entry_price": 71.07,
+      "exit_price": 43.41,
+      "quantity": 77,
+      "profit": -2129.84,
+      "entry_time": "2025-12-31T05:17:41.481823",
+      "exit_time": "2025-12-31T08:57:41.481823"
+    },
+    {
+      "trade_id": 51,
+      "symbol": "STOCK",
+      "entry_price": 71.8,
+      "exit_price": 50.06,
+      "quantity": 132,
+      "profit": -2869.98,
+      "entry_time": "2025-12-31T05:27:41.481823",
+      "exit_time": "2025-12-31T09:07:41.481823"
+    },
+    {
+      "trade_id": 52,
+      "symbol": "STOCK",
+      "entry_price": 72.61,
+      "exit_price": 44.4,
+      "quantity": 131,
+      "profit": -3695.29,
+      "entry_time": "2025-12-31T05:37:41.481823",
+      "exit_time": "2025-12-31T09:22:41.481823"
+    },
+    {
+      "trade_id": 53,
+      "symbol": "STOCK",
+      "entry_price": 67.22,
+      "exit_price": 42.98,
+      "quantity": 142,
+      "profit": -3441.08,
+      "entry_time": "2025-12-31T05:47:41.481823",
+      "exit_time": "2025-12-31T09:32:41.481823"
+    },
+    {
+      "trade_id": 54,
+      "symbol": "STOCK",
+      "entry_price": 80.39,
+      "exit_price": 39.12,
+      "quantity": 12,
+      "profit": -495.24,
+      "entry_time": "2025-12-31T06:07:41.481823",
+      "exit_time": "2025-12-31T09:42:41.481823"
+    },
+    {
+      "trade_id": 55,
+      "symbol": "STOCK",
+      "entry_price": 76.48,
+      "exit_price": 42.46,
+      "quantity": 128,
+      "profit": -4355.11,
+      "entry_time": "2025-12-31T06:27:41.481823",
+      "exit_time": "2025-12-31T09:52:41.481823"
+    },
+    {
+      "trade_id": 56,
+      "symbol": "STOCK",
+      "entry_price": 71.55,
+      "exit_price": 44.21,
+      "quantity": 136,
+      "profit": -3717.75,
+      "entry_time": "2025-12-31T06:37:41.481823",
+      "exit_time": "2025-12-31T10:02:41.481823"
+    },
+    {
+      "trade_id": 57,
+      "symbol": "STOCK",
+      "entry_price": 75.65,
+      "exit_price": 57.8,
+      "quantity": 17,
+      "profit": -303.39,
+      "entry_time": "2025-12-31T06:42:41.481823",
+      "exit_time": "2025-12-31T10:17:41.481823"
+    },
+    {
+      "trade_id": 58,
+      "symbol": "STOCK",
+      "entry_price": 62.77,
+      "exit_price": 68.73,
+      "quantity": 152,
+      "profit": 906.68,
+      "entry_time": "2025-12-31T06:52:41.481823",
+      "exit_time": "2025-12-31T10:27:41.481823"
+    },
+    {
+      "trade_id": 59,
+      "symbol": "STOCK",
+      "entry_price": 55.75,
+      "exit_price": 71.29,
+      "quantity": 20,
+      "profit": 310.86,
+      "entry_time": "2025-12-31T07:02:41.481823",
+      "exit_time": "2025-12-31T10:37:41.481823"
+    },
+    {
+      "trade_id": 60,
+      "symbol": "STOCK",
+      "entry_price": 48.53,
+      "exit_price": 73.96,
+      "quantity": 15,
+      "profit": 381.37,
+      "entry_time": "2025-12-31T07:22:41.481823",
+      "exit_time": "2025-12-31T10:47:41.481823"
+    },
+    {
+      "trade_id": 61,
+      "symbol": "STOCK",
+      "entry_price": 46.28,
+      "exit_price": 66.5,
+      "quantity": 77,
+      "profit": 1557.35,
+      "entry_time": "2025-12-31T07:32:41.481823",
+      "exit_time": "2025-12-31T10:57:41.481823"
+    },
+    {
+      "trade_id": 62,
+      "symbol": "STOCK",
+      "entry_price": 47.15,
+      "exit_price": 70.58,
+      "quantity": 120,
+      "profit": 2810.87,
+      "entry_time": "2025-12-31T07:37:41.481823",
+      "exit_time": "2025-12-31T11:07:41.481823"
+    },
+    {
+      "trade_id": 63,
+      "symbol": "STOCK",
+      "entry_price": 43.74,
+      "exit_price": 82.11,
+      "quantity": 25,
+      "profit": 959.23,
+      "entry_time": "2025-12-31T07:47:41.481823",
+      "exit_time": "2025-12-31T11:17:41.481823"
+    },
+    {
+      "trade_id": 64,
+      "symbol": "STOCK",
+      "entry_price": 46.71,
+      "exit_price": 81.57,
+      "quantity": 113,
+      "profit": 3939.19,
+      "entry_time": "2025-12-31T07:57:41.481823",
+      "exit_time": "2025-12-31T11:47:41.481823"
+    },
+    {
+      "trade_id": 65,
+      "symbol": "STOCK",
+      "entry_price": 46.71,
+      "exit_price": 77.25,
+      "quantity": 43,
+      "profit": 1313.29,
+      "entry_time": "2025-12-31T08:07:41.481823",
+      "exit_time": "2025-12-31T12:12:41.481823"
+    },
+    {
+      "trade_id": 66,
+      "symbol": "STOCK",
+      "entry_price": 45.74,
+      "exit_price": 70.75,
+      "quantity": 30,
+      "profit": 750.36,
+      "entry_time": "2025-12-31T08:17:41.481823",
+      "exit_time": "2025-12-31T12:27:41.481823"
+    }
+  ],
+  "summary": {
+    "total_trades": 66,
+    "final_cash": 73356.53092237157,
+    "final_position_value": 188,
+    "total_profit": -20945.239999999998
+  }
+}

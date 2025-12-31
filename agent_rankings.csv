@@ -1,0 +1,4 @@
+agent,total_profit_rank,win_rate_rank,sharpe_ratio_rank,profit_factor_rank,total_trades_rank,overall_rank
+StockAgent,3.0,1.0,1.0,1.0,1.0,1.4
+TradingAgents,1.0,3.0,2.0,2.0,3.0,2.2
+FinGPT,2.0,2.0,3.0,3.0,2.0,2.4
